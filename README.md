@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# This is Aren Kevorkian's Public GitHub Profile
+
+Below is my certificate of completion for the online course Learn Enough Command Line to Be Dangerous from Learn Enough  (https://www.learnenough.com/command-line):
+
+<a href="https://www.learnenough.com/certificates/akev2794"><img src="https://www.learnenough.com/certificates/akev2794/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a>
+
 <!--
 **akev2794/akev2794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
