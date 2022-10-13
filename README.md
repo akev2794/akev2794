@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### This is Aren Kevorkian's Public GitHub Profile
 
 Below is my certificate of completion for the online course Learn Enough Command Line to Be Dangerous from Learn Enough  (https://www.learnenough.com/command-line):
