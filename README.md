@@ -1,6 +1,6 @@
 ### This is Aren Kevorkian's Public GitHub Profile
 
-Below is my certificate of completion for the online courses Learn Enough Command Line to Be Dangerous and Learn Enough Text Editor to Be Dangerous  from Learn Enough (https://www.learnenough.com/command-line):
+Below is my certificate of completion for the online courses Learn Enough Command Line to Be Dangerous and Learn Enough Text Editor to Be Dangerous from Learn Enough (https://www.learnenough.com/command-line, https://www.learnenough.com/course/learn_enough_text_editor):
 
 
 <a href="https://www.learnenough.com/certificates/akev2794"><img src="https://www.learnenough.com/certificates/akev2794/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line"></a><a href="https://www.learnenough.com/certificates/akev2794"><img src="https://www.learnenough.com/certificates/akev2794/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor"></a>
