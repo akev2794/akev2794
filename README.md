@@ -5,11 +5,7 @@ Below are links for forks of my most recent project, a sign language translation
 [Deploying the app on streamlit cloud](https://github.com/akev2794/sign_app)\
 A demo:
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/yninPcSHizw?&autoplay=1"frameborder="0"
-allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mRXAT_PFAk0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[SignLingo App](https://img.youtube.com/vi/yninPcSHizw/0.jpg)](https://www.youtube.com/watch?v=yninPcSHizw)
 
 
 Below are my certificates of completion for the online courses Learn Enough Command Line to Be Dangerous and Learn Enough Text Editor to Be Dangerous from Learn Enough (https://www.learnenough.com/command-line, https://www.learnenough.com/text-editor):
