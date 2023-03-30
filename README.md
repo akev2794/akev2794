@@ -6,7 +6,7 @@ Below are links for forks of my most recent project, a sign language translation
 A demo:
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/yninPcSHizw&autoplay=1"frameborder="0"
+src="https://www.youtube.com/embed/yninPcSHizw?&autoplay=1"frameborder="0"
 allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRXAT_PFAk0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
