@@ -1,7 +1,7 @@
 ### This is Aren Kevorkian's Public GitHub Profile
 
 Below are links for forks of my most recent project, a sign language translation app:
-https://github.com/akev2794/sign_language_translation
+[Sign language translation app](https://github.com/akev2794/sign_language_translation), [Deploying the app on streamlit cloud](https://github.com/akev2794/sign_app)
 
 Below are my certificates of completion for the online courses Learn Enough Command Line to Be Dangerous and Learn Enough Text Editor to Be Dangerous from Learn Enough (https://www.learnenough.com/command-line, https://www.learnenough.com/text-editor):
 
