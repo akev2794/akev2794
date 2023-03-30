@@ -3,7 +3,7 @@
 Below are links for forks of my most recent project, a sign language translation app:\
 [Sign language translation app](https://github.com/akev2794/sign_language_translation)\
 [Deploying the app on streamlit cloud](https://github.com/akev2794/sign_app)\
-A demo:\
+A demo: \
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yninPcSHizw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
