@@ -1,5 +1,11 @@
 ### This is Aren Kevorkian's Public GitHub Profile
 
+Having recently graduated from university and a Data Science bootcamp, I am currently looking for Data Analyst and Data Scientist roles, with an emphasis on roles in Healthcare and/or Finance. I went to King’s College London to pursue a Psychology degree, and discovered a passion for working with Data. I then successfully completed a Data Science bootcamp alongside my final year at university, creating a sign language translation app as part of my final project. I’m most proficient in Python, capable of using a wide variety of Data Analytics, Machine Learning, and Deep Learning tools, such as Pandas, ScikitLearn, RAPIDS, TensorFlow Keras, and PyTorch. I am also capable in R, SQL, and Google’s cloud computing services such as Google Compute Engine and BigQuery. As someone who enjoys extracting insights from data, I want to apply my existing skills to solve real-world business challenges. I aim to contribute to a team that values data-driven decision making, continuous learning and innovation, and adaptability.
+
+I would like to connect with Data Analysts, Scientists, and recruiters in this space. Feel free to send me a message on Github to discuss any potential opportunities. I’m excited to take my first steps in this industry and work with like-minded people to solve today’s most pressing challenges using data!
+
+***********************************************************************************************
+
 Below are links for forks of one of my more recent projects, a sign language translation app:\
 [Sign language translation app](https://github.com/akev2794/sign_language_translation)\
 [Deploying the app on streamlit cloud](https://github.com/akev2794/sign_app)\
